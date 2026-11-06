@@ -7,7 +7,7 @@
 ![命名仪式](preview/02-naming.png)
 ![夜里的她](preview/04-chat-cold.png)
 
-**在线 Demo**：`（部署后把网址填在这里）`
+**在线 Demo**：<https://ggzmmmy963.github.io/yorube-ai/>
 
 ---
 
